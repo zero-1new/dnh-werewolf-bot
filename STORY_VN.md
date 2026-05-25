@@ -1,0 +1,62 @@
+# dnh-werewolf-bot
+
+## Cơ bản về Werewolf
+
+Ngôi làng DNH xưa nay là nơi quy tụ của giang hồ huynh đệ tứ hải về ẩn mình. Cuộc sống vốn thanh bình, êm ả, bỗng nhiên bị xáo động khi một vài thành viên của làng bị phanh thây trong ba đêm liên tiếp, trên người có dấu tích của loài Werewolf vốn có thể hóa thành hình người. Vốn cô lập với phần còn lại của thế giới, dân làng nhanh chóng kết luận: lũ Werewolf đang núp mình trong làng, và có thể không chỉ một. Nhưng với tư cách là 1 làng dân chủ, Trưởng làng không thể tự ý treo cổ tội phạm, mà cần thông qua biểu quyết để tiêu diệt sát nhân.
+Loài Werewolf cần rất nhiều máu người để có thể chuyển hoàn toàn thành nhân dạng, vậy nên Werewolf phải giết nhân loại. Nhưng thế cô lực quạnh, Werewolf phải làm bí mật trong đêm, và năng lực chỉ cho phép giết một người mỗi đêm.
+Mặt khác, đã có vài thành viên có ý đồ chiếm đoạt Cấm thư, bảo vật của làng, và họ cần phải tiêu diệt tất cả mọi người - chắc chắn sẽ không ai chịu đầu hàng và giao ra bảo vật.
+
+Vậy bên nào sẽ chiến thắng, Thường dân, Werewolf, hay là phe Phản loạn? Hãy dùng lập luận của mình để chiến thắng và hoàn thành mục tiêu trong Werewolf.
+
+## Hướng dẫn cơ bản
+
+- Trò chơi chia làm 2 giai đoạn: **[D]ay Phase** (ban ngày) và **[N]ight Phase** (ban đêm).
+
+- Vào ban ngày, mỗi người chơi có 1 lượt vote và cần vote để treo cổ người mình cho là sát nhân. Người có số vote cao nhất sẽ bị treo cổ.
+- Các nhân vật thực hiện các kĩ năng phụ thuộc vào thời gian mô tả ở phần dưới đây.
+
+## Các phe phái trong trò chơi
+
+### I. Phe dân: Chiến thắng nếu sống sót và tiêu diệt được hết Sói và Cáo. Không thể nhận biết được người cùng phe.
+
+- [Villager] Dân làng: Không có chức năng đặc biệt.
+- [Chief] Trưởng làng: Trưởng làng sẽ bí mật được tính 2 vote mỗi buổi sáng.
+- [Seer] Tiên tri: Soi một người chơi có phải là sói hay không. Có thể giết chết Cáo nếu soi trúng Cáo.
+- [Guard] Bảo vệ: Bảo vệ được chọn 1 người khác nhau mỗi đêm trừ bản thân và người được chọn sẽ bất tử đêm đó.
+- [Lycan] Người hóa sói: Người hóa sói thuộc Phe dân làng, nhưng nếu được chỉ định bởi Tiên tri, thì sẽ bị thông báo là Sói.
+- [Hunter] Thợ săn: Vào ban đêm, được chọn một người chơi khác để chết chung nếu bản thân bị giết.
+- [Pathologist] Bác sĩ pháp y: Mỗi đêm được chọn 1 người đã chết để xem vai trò.
+- [Diseased] Người bệnh: Nếu Người bệnh bị Sói cắn, đàn Sói sẽ không thể cắn người nào vào đêm tiếp theo do đã bị lây bệnh.
+- [ApprenticeSeer] Tiên tri tập sự: Nếu Tiên tri đã chết, Tiên tri tập sự sẽ trở thành Tiên tri của làng.
+- [Cursed] Kẻ bị Nguyền rủa: Thuộc phe dân làng, nhưng nếu bị Sói cắn, Kẻ bị Nguyền rủa sẽ gia nhập vào phe sói, chống lại dân làng.
+- [Harlot] Kỹ nữ: Kỹ nữ được lựa chọn một người để đến ngủ thăm vào mỗi đêm. Nếu Kỹ nữ đến thăm nạn nhân của Sói, Kỹ nữ sẽ chết theo kẻ đó. Nếu Kỹ nữ đến thăm Sói, Sói sẽ không cắn được ai và Kỹ nữ sẽ chết. Nếu Kỹ nữ bị Sói nhắm trúng mà Kỹ nữ đi thăm người khác, Kỹ nữ sẽ không bị sói cắn.
+
+### II. Phe sói: Chiến thắng nếu giết hết dân làng. Nhận biết được **sói** cùng phe.
+
+- [Werewolf] Sói: Chọn 1 người để giết mỗi đêm.
+- [Superwolf] Sói già: Chọn 1 người để giết mỗi đêm. Sói già có khả năng che giấu Tiên tri và không bị soi ra là sói.
+- [Betrayer] Kẻ phản bội: Là **người** nhưng bị mua chuộc theo phe sói. Betrayer biết ai là sói nhưng phe sói không biết ai là Betrayer.
+- [Rat] Chuột ma sói: Chọn 1 người cắn mỗi đêm. Người đó sẽ chết nếu là Cáo, Bảo vệ hoặc Người bệnh.
+
+### III. Phe thứ 3: Chiến thắng với những điều kiện đặc biệt
+
+- [Fox] Cáo: Thuộc phe thứ ba, cáo sẽ chiến thắng nếu tất cả sói bị giết. Sẽ chết nếu bị Tiên tri soi trúng. Tuy nhiên, Cáo không chết nếu được Bảo vệ trong đêm bị soi.
+- [Cupid] Thần tình yêu: Đầu mỗi ván chơi, Cupid sẽ được gọi dậy và chọn ra hai người yêu nhau. Cặp đó sẽ chết nếu 1 trong 2 bị chết. Nếu hai người thuộc hai phe khác nhau (Sói vs Dân) thì họ sẽ chiến thắng khi là hai người cuối cùng sống sót (hoặc khi phe của họ thắng). Thần tình yêu có thể chiến thắng cùng cặp đôi hoặc khi dân làng thắng.
+- [Tanner] Kẻ chán đời: Thuộc phe thứ ba, kẻ chán đời sẽ chiến thắng nếu bị dân làng vote treo cổ. Nếu kẻ chán đời bị sói hoặc phù thủy giết cũng sẽ chết như dân làng bình thường.
+
+Hệ thống nhân vật này sẽ được cập nhật sau.
+
+### Các vai trò sẽ được cập nhật:
+
+- [N] Thám tử: Chọn 2 người bất kì mỗi đêm xem họ cùng phe hay không.
+- [N] Pháp sư câm: Chọn 1 người gây câm mỗi đêm. Người bị chọn sẽ không thể nói trong ngày hôm sau.
+- [D/N] Kẻ báo thù: Được chọn 1 người chết chung nếu bị giết.
+- [N] Nguyệt nữ: Chọn 1 người để ngủ cùng từ đêm đầu tiên. Nếu 1 trong 2 bị giết thì người còn lại sẽ chết thay.
+- [N] Mục sư: Có 1 lần rảy nước thánh. Rảy vào Sói, Sói sẽ chết. Rảy lộn, mục sư sẽ chết.
+- [D/N] Sói pháp sư: Yểm bùa 1 người vào ban ngày, ban đêm người bị yểm sẽ bị Tiên tri soi ra Sói.
+- [N] Sói báo thù: Được chọn 1 người chết chung khi bị giết ban ngày.
+- [N] Sói tiên tri: Mỗi đêm được chọn 1 người để xem vai trò.
+- [D] Thằng ngố: Chiến thắng nếu bị dân làng treo cổ.
+- [N] Sát nhân: Chọn 1 người để giết mỗi đêm. Không bị Sói giết.
+
+Nhóm có tham khảo cách chơi tại: https://thuthuatchoi.com/danh-sach-cac-nhan-vat-trong-ma-soi-ultimate-ultimate-werewolf-deluxe-edition.html

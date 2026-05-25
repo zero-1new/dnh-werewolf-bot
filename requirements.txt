@@ -1,0 +1,6 @@
+discord.py==1.7.3
+python-dotenv
+tzlocal<3.0
+python-dateutil
+waitress
+Flask
