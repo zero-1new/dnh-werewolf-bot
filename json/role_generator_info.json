@@ -1,0 +1,25 @@
+{
+  "role_score": {
+    "Seer": 4,
+    "Witch": 5,
+    "Guard": 3,
+    "Hunter": 3,
+    "Zombie": 3,
+    "Diseased": 3,
+    "ApprenticeSeer": 3,
+    "Chief": 2,
+    "Pathologist": 2,
+    "Villager": 1,
+    "Tanner": 1,
+    "Lycan": -1,
+    "Fox": -1,
+    "Betrayer": -2,
+    "Cupid": -3,
+    "Cursed": -3,
+    "Harlot": -3,
+    "Rat": -4,
+    "Werewolf": -5,
+    "Superwolf": -6
+  },
+  "delta": 0
+}
